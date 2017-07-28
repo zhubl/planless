@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.zhubl</groupId>
-    <artifactId>antlr_demo</artifactId>
+    <artifactId>antlr-demo</artifactId>
     <version>0.0.1</version>
     <packaging>class</packaging>
 
