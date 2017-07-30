@@ -7,7 +7,10 @@
 #### Maybe just essay, scrawl, draft and the like.
 -----------
 ## JAVA
-[Antlr demo for version 4.7](https://github.com/zhubl/planless/tree/master/java/FrameAndTools/Antlr/AntlrDemo)
+[Antlr demo for version 4.7](java/FrameAndTools/Antlr/AntlrDemo)
 
+[Open replicator demo](java/FrameAndTools/OpenReplicator/OpenReplicatorDemo)
 ## Python
-[Opencv step by step](https://github.com/zhubl/planless/tree/master/python/vision/opencv)
+[Opencv step by step](python/vision/opencv)
+
+[Http practice: a simple tcp chatroom](python/http/tcp-chat)
