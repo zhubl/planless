@@ -10,6 +10,9 @@
 [Antlr demo for version 4.7](java/FrameAndTools/Antlr/AntlrDemo)
 
 [Open replicator demo](java/FrameAndTools/OpenReplicator/OpenReplicatorDemo)
+
+[Jackson demo](java/FrameAndTools/Jackson/JacksonDemo)
+
 ## Python
 [Opencv step by step](python/vision/opencv)
 
