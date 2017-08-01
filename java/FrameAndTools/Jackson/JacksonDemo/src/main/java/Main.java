@@ -19,7 +19,7 @@ public class Main {
 
     public static void Json2UserObjDemo() throws IOException {
         ObjectMapper mapper = new ObjectMapper();
-        // 这里User类必须拥有空构造方法， User中包含的子类Name也是。
+        // 这里User类必须拥有空构造方法， User的内部类Name也是。
         User user = mapper.readValue(new File("user.json"), User.class);
         System.out.println(user);
     }
